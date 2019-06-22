@@ -4,6 +4,8 @@ Content for the Angular Hackday in Melbourne - June 2019
 
 ## Slides
 
+Follow the links to download the slides from each of the presenters:
+
 ### Gabe George
 
 [Introduction to Angular](https://speakerdeck.com/gabrielgeorge/angular-hackday-melbourne-2019-introduction-to-angular)
