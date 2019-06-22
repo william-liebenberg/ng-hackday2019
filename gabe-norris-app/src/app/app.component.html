@@ -1,0 +1,32 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+	<h1>{{ title }}</h1>
+	<img width="300" alt="Angular Logo" src="../assets/gabenorris.jpg" />
+</div>
+
+<h3>Gabe Norris needs your First and Last name to invent a joke!</h3>
+
+<div class="joke-form">
+	<div class="joke-row">
+		<span>FirstName: </span><br /><input [(ngModel)]="firstName" />
+	</div>
+	<div class="joke-row">
+		<span>LastName: </span><br /><input [(ngModel)]="lastName" />
+	</div>
+	<div class="joke-row">
+		<span>Category: </span><br />
+
+		<select [(ngModel)]="category">
+			<option value="nerdy">Nerdy</option>
+			<option value="explicit	">Explicit</option>
+		</select>
+	</div>
+	<div class="joke-row">
+		<button class="generate-joke" (click)="generateJoke()">Generate</button>
+	</div>
+	<div class="joke-area">
+		<textarea [ngModel]="latestJoke?.value?.joke"></textarea>
+	</div>
+</div>
+
+<router-outlet></router-outlet>
