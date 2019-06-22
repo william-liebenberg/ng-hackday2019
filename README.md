@@ -12,11 +12,11 @@ Follow the links to download the slides from each of the presenters:
 
 ### William Liebenberg
 
-[Services and Dependency Injection](https://www.slideshare.net/WilliamLiebenberg/angular-8-services-and-dependency-injection-william-liebenberg)
+[Angular Services and Dependency Injection](https://www.slideshare.net/WilliamLiebenberg/angular-8-services-and-dependency-injection-william-liebenberg)
 
 ### Jernej Kavka (JK)
 
-[Routing](https://www.slideshare.net/)
+[Angular Routing](https://www.slideshare.net/JernejKavka/angular-routing-angular-hack-day-melbourne-2019)
 
 ### Patrick Zhou
 
