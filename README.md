@@ -20,4 +20,4 @@ Follow the links to download the slides from each of the presenters:
 
 ### Patrick Zhou
 
-[Bootstrap and ngBootstrap](https://www.slideshare.net/)
+[Bootstrap and ngBootstrap](https://www.slideshare.net/PatrickZhao12/angular-bootstrapintro)
