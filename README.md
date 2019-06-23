@@ -32,7 +32,7 @@ Slides: [Angular Routing](https://www.slideshare.net/JernejKavka/angular-routing
 
 Some attendees felt like the would love to share their apps.
 
-ATTENDEES: If you haven't shared your app yet and would like to, please email me at [williamliebenberg@ssw.com.au](mailto:williamliebenberg@ssw.com.au?subject=Angular Hack Day June 2019 - Submit my app) with a link to your code.
+ATTENDEES: If you haven't shared your app yet and would like to, please email me at [williamliebenberg@ssw.com.au](mailto:williamliebenberg@ssw.com.au) with a link to your code.
 
 ### Mitesh Patel
 
