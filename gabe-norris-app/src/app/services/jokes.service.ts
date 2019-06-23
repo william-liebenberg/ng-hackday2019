@@ -9,7 +9,7 @@ import { Joke } from '../models/Jokes';
 })
 export class JokesService {
 
-	apiUrl = 'http://api.icndb.com/jokes/random';
+	apiUrl = 'https://api.icndb.com/jokes/random';
 
 	constructor(private http: HttpClient) { }
 
